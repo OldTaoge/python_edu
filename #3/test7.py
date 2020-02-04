@@ -24,7 +24,7 @@ print("Come to eat with me," + name_list[3])
 print("Come to eat with me," + name_list[4])
 print("Come to eat with me," + name_list[5])
 
-print("I cann't find the big desk ,guys./nOnly two people can come.")
+print("I cann't find the big desk ,guys.\nOnly two people can come.")
 print("Goodbye," + name_list.pop(2))
 print("Goodbye," + name_list.pop(2))
 print("Goodbye," + name_list.pop(2))
